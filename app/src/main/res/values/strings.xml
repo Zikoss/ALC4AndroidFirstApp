@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="text_about">About ALC</string>
+    <string name="text_profile">My Profile</string>
+    <string name="text_andela_4_first_challenge">Welcome to ALC 4.0</string>
+    <string name="title_activity_about_alc">AboutALC</string>
+    <string name="title_activity_aboutalc">About ALC</string>
+    <string name="title_activity_my_profile">Profile</string>
+    <string name="text_ProfilePic" />
+    <string name="text_My_Name">Zakaria Hamza</string>
+    <string name="text_Track">Track:</string>
+    <string name="text_Track_Value">Android</string>
+    <string name="text_Country">Country:</string>
+    <string name="text_Country_Value">Morocco</string>
+    <string name="text_Email">Email:</string>
+    <string name="text_Email_Value">hamza.zakaria@gmail.com</string>
+    <string name="text_PhoneNumber">Phone Number:</string>
+    <string name="text_PhoneNumber_Value">0674546692</string>
+    <string name="text_SlackUsername">Slack Username:</string>
+    <string name="text_SlackUsername_Value">\@Zakaria Hamza</string>
+
+</resources>
